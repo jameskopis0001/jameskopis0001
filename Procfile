@@ -1,1 +1,1 @@
-Worker: node index.json
+Worker: slappey slappey.json
