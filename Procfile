@@ -1,1 +1,1 @@
-Worker: slappey slappey.json
+Worker: npm slappey.json
